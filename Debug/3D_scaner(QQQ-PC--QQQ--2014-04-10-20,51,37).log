@@ -1,0 +1,13 @@
+﻿生成启动时间为 2014/3/29 23:17:27。
+     1>项目“J:\cloud\百度云同步盘\Learning\Visual Studio 2010\Projects\3D_scaner\3D_scaner\3D_scaner.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\3D_scaner.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         H:\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>j:\cloud\百度云同步盘\learning\visual studio 2010\projects\3d_scaner\3d_scaner\build.h(2): fatal error C1083: 无法打开包括文件:“gl\glut.h”: No such file or directory
+     1>已完成生成项目“J:\cloud\百度云同步盘\Learning\Visual Studio 2010\Projects\3D_scaner\3D_scaner\3D_scaner.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.25

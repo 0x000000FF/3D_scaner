@@ -1,0 +1,45 @@
+﻿生成启动时间为 2013/4/11 21:47:20。
+     1>项目“C:\Users\QQQ\documents\visual studio 2010\Projects\3D_scaner\3D_scaner\3D_scaner.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\3D_scaner.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\qqq\documents\visual studio 2010\projects\3d_scaner\3d_scaner\file.h(11): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\qqq\documents\visual studio 2010\projects\3d_scaner\3d_scaner\file.h(13): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\qqq\documents\visual studio 2010\projects\3d_scaner\3d_scaner\file.h(26): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\qqq\documents\visual studio 2010\projects\3d_scaner\3d_scaner\file.h(28): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\qqq\documents\visual studio 2010\projects\3d_scaner\3d_scaner\file.h(53): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\qqq\documents\visual studio 2010\projects\3d_scaner\3d_scaner\file.h(56): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\qqq\documents\visual studio 2010\projects\3d_scaner\3d_scaner\build.h(131): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\qqq\documents\visual studio 2010\projects\3d_scaner\3d_scaner\build.h(135): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\qqq\documents\visual studio 2010\projects\3d_scaner\3d_scaner\build.h(137): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\qqq\documents\visual studio 2010\projects\3d_scaner\3d_scaner\build.h(143): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\qqq\documents\visual studio 2010\projects\3d_scaner\3d_scaner\build.h(145): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\qqq\documents\visual studio 2010\projects\3d_scaner\3d_scaner\build.h(189): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\qqq\documents\visual studio 2010\projects\3d_scaner\3d_scaner\build.h(192): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\qqq\documents\visual studio 2010\projects\3d_scaner\3d_scaner\build.h(213): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\qqq\documents\visual studio 2010\projects\3d_scaner\3d_scaner\build.h(216): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\qqq\documents\visual studio 2010\projects\3d_scaner\3d_scaner\build.h(230): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\qqq\documents\visual studio 2010\projects\3d_scaner\3d_scaner\build.h(233): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\qqq\documents\visual studio 2010\projects\3d_scaner\3d_scaner\build.h(277): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\qqq\documents\visual studio 2010\projects\3d_scaner\3d_scaner\build.h(279): warning C4018: “<”: 有符号/无符号不匹配
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\QQQ\documents\visual studio 2010\Projects\3D_scaner\Debug\3D_scaner.exe" /INCREMENTAL /NOLOGO opencv_calib3d243d.lib opencv_contrib243d.lib opencv_core243d.lib opencv_features2d243d.lib opencv_flann243d.lib opencv_gpu243d.lib opencv_highgui243d.lib opencv_imgproc243d.lib opencv_legacy243d.lib opencv_ml243d.lib opencv_objdetect243d.lib opencv_ts243d.lib opencv_video243d.lib opencv_calib3d243.lib opencv_contrib243.lib opencv_core243.lib opencv_features2d243.lib opencv_flann243.lib opencv_gpu243.lib opencv_highgui243.lib opencv_imgproc243.lib opencv_legacy243.lib opencv_ml243.lib opencv_objdetect243.lib opencv_ts243.lib opencv_video243.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\3D_scaner.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\QQQ\documents\visual studio 2010\Projects\3D_scaner\Debug\3D_scaner.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\QQQ\documents\visual studio 2010\Projects\3D_scaner\Debug\3D_scaner.lib" /MACHINE:X86 Debug\3D_scaner.exe.embed.manifest.res
+         Debug\main.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\3D_scaner.exe.embed.manifest" /manifest Debug\3D_scaner.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         3D_scaner.vcxproj -> C:\Users\QQQ\documents\visual studio 2010\Projects\3D_scaner\Debug\3D_scaner.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\3D_scaner.unsuccessfulbuild”。
+         正在对“Debug\3D_scaner.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\QQQ\documents\visual studio 2010\Projects\3D_scaner\3D_scaner\3D_scaner.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.45
